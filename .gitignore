@@ -105,4 +105,5 @@ dist
 
 #Configuracion de VSCode
 .vscode
-.code-workspace
+*.code-workspace
+platzi-curso-practico-javascript.code-workspace
